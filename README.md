@@ -4,7 +4,6 @@
 ##### 📘 ️Edu 
 
 `-` **Inha Univ, Statistics (2021~2023)**
-
 `-` **Big Leader AI Academy _ KDATA & Kyungnam Univ (2021.07~08)**   
 `-` **Gangneung-Wonju National University, Industrial and Management Engineering (2016~2019)**   
 
