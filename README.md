@@ -12,8 +12,8 @@
 | **Type** | **Date** | **Organization** | **Subject** |
 |:--------:|:--------:|:--------:|:--------:|
 | **✈ military service**| 2017.03 - 2019.03 | Republic of Korea Air Force | **Sergeant**
-| **🙌 volunteer **| 2019.07 - 2019.07 | International Workcamp Organization | **Poland, Day care center for children** 
-| **🧑‍💻 Work ** | 2021.08 - 2021.08 | K-DATA & 경찰대학 협업 프로젝트 | **AI를 활용한 지역별 맞춤 치안지도 서비스** |
+| **🙌 volunteer** | 2019.07 - 2019.07 | International Workcamp Organization | **Poland, Day care center for children** 
+| **🧑‍💻 Work**  | 2021.08 - 2021.08 | K-DATA & 경찰대학 협업 프로젝트 | **AI를 활용한 지역별 맞춤 치안지도 서비스** |
 
 ### 🏆 Awards
 
