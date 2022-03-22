@@ -28,3 +28,4 @@
 **Python / R**    
 
 [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/dlaguddnr/)
+[![blog](https://img.shields.io/badge/tistory-blog-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://caesiumy.github.io/)](https://dlaguddnr.tistory.com/)
