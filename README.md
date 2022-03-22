@@ -1,11 +1,6 @@
 ### Hi I'm Lim Hyung Wook 👋 😎
 #### Studying Statistics & AI & Data Science   
 
-##### 📘 ️Edu 
-
-`-` **Gangneung-Wonju National University, Industrial and Management Engineering (2016-2019)      
-`-` 데이터 청년 캠퍼스_ KDATA (2021.07 ~ 08)  
-`-` Inha University, Statistics (4학년 / 재학 2021 ~ 2023)**  
 
 ### 🙋‍♂️ Experience
 
