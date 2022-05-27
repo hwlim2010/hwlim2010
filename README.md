@@ -8,7 +8,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **✈ military service**| 2017.03 - 2019.03 | Republic of Korea Air Force | **Sergeant, military police**
 | **🙌 volunteer** | 2019.07 - 2019.07 | International Workcamp Organization | **Poland, Day care center for children** 
-| **💻 Work**  | 2021.08 - 2021.09 | K-DATA & 경찰대학 협업 프로젝트 | **AI를 활용한 지역별 맞춤 치안지도 서비스** |
+| **💻 Work**  | 2021.08 - 2021.09 | K-DATA & 경찰대학 협업 프로젝트 | **[AI를 활용한 창원시 맞춤 치안지도 서비스](https://github.com/hwlim2010/2021_-Project_police_univ)** |
 | **📖 Research**  | 2022.03 - | Deep Learning algorithm research | **Undergraduate researcher** |
 
 
@@ -16,7 +16,7 @@
 
 | **Type** | **Date** | **What(Name)** | **Subject** |
 |:--------:|:--------:|:--------:|:--------:|
-| **최우수상** | 2021.11 | 창원시 빅데이터 공모전 | **AI를 활용한 창원시 맞춤 치안지도 서비스** |
+| **최우수상** | 2021.11 | 창원시 빅데이터 공모전 | **[AI를 활용한 창원시 맞춤 치안지도 서비스](https://github.com/hwlim2010/2021_-Project_police_univ)** |
 
 ##### 🧩 Skill  
 
