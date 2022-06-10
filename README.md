@@ -10,6 +10,7 @@
 | **🙌 volunteer** | 2019.07 - 2019.07 | International Workcamp Organization | **Poland, Day care center for children** 
 | **💻 Work**  | 2021.08 - 2021.09 | K-DATA & 경찰대학 협업 프로젝트 | **[AI를 활용한 창원시 맞춤 치안지도 서비스](https://github.com/hwlim2010/2021_-Project_police_univ)** |
 | **📖 Research**  | 2022.03 - | Deep Learning algorithm research | **Undergraduate researcher** |
+| **😎 Training**  | 2022.06 -  | Google Developers Machine Learning Bootcamp | **Google Developers** |
 
 
 ### 🏆 Awards
